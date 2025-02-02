@@ -7,6 +7,7 @@ Imagine D&D adventures and story mixed with diplomacy and player conflicts.
 We open source our code for two reasons:
 1. Collaboration. Just as our server is shaped by players, we are calling for all devs out there to fix bugs, improve the website and keep the project evolving.
 2. Why not? This code is not being commercially used so gatekeeping is trivial.
+3. It forces us to write clean, presentable code. Yup.
 ## How to Contribute
 1.  Clone repo and create a new branch:  `$ git checkout https://github.com/VeilMC/web -b name_for_new_branch`.
 2.  Make changes and (please) test
